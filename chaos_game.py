@@ -21,7 +21,7 @@ A,B,C=None,None,None
 L=500
 
 # Number of points
-N=1000
+N=10000
 
 # Number of chaos iterations for each point. 
 I=5
